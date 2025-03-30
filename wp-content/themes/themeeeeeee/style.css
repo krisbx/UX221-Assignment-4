@@ -1,0 +1,74 @@
+/*
+Theme Name:     themeeeeeee
+Description:    
+Author:         krisbx
+Template:       blocksy
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+.grid-container {
+    margin: 0 auto;
+}
+
+a {
+    color: #056323 !important;
+}
+
+header {
+    background-color: #f4ffe0 !important;
+}
+
+body {
+    background: #fafff9
+}
+
+.main-title a {
+    font-size: 35px;
+}
+
+.entry-title {
+    font-family: Verdana, sans-serif;
+    color: #0b7137 !important;
+    font-weight: 400 !important;
+    font-size: 40px;
+}
+
+h1 {
+    font-family: Verdana, sans-serif;
+    color: #0b7137;
+}
+
+.meta-categories {
+    font-weight: bold;
+    display: inline-block;
+    padding: 5px 10px;
+    border: 2px solid #3498db;
+    border-radius: 50px;
+    background-color: transparent;
+    color: #3498db;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+
+.entry-header {
+    background-color: white !important;
+}
+
+.wp-block-page-list a {
+    font-family: "Chewy", system-ui;
+    font-size: 20px;
+    display: inline-block;
+    transition: font-size 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.wp-block-page-list a:hover {
+    font-size: 25px;
+    animation: bounce 0.5s ease-in-out;
+}
+
+.main-navigation {
+    background: transparent;
+}
