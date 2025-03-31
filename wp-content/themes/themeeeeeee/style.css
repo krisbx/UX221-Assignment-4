@@ -13,11 +13,31 @@ Template:       blocksy
 
 a {
     color: #056323 !important;
+    font-weight: bold;
 }
 
-header {
+main {
+    background-color: rgb(126, 150, 147) !important;
+}
+
+.ct-header {
     background-color: #f4ffe0 !important;
 }
+
+.entry-header {
+    border: 1px solid #d3e0d2;
+    border-radius: 8px;
+    padding: 10px;
+  }
+
+  .entry-card {
+    border: 3px solid #2e583c !important;
+    border-radius: 12px !important;
+    padding: 20px !important;
+    background-color: #ffffff !important;
+    box-shadow: 0 4px 6px rgba(24, 43, 25, 0.1) !important;
+    margin-bottom: 20px !important;
+  }
 
 body {
     background: #fafff9
@@ -57,18 +77,7 @@ h1 {
     background-color: white !important;
 }
 
-.wp-block-page-list a {
-    font-family: "Chewy", system-ui;
-    font-size: 20px;
-    display: inline-block;
-    transition: font-size 0.3s ease-in-out, transform 0.3s ease-in-out;
-}
-
-.wp-block-page-list a:hover {
-    font-size: 25px;
-    animation: bounce 0.5s ease-in-out;
-}
-
-.main-navigation {
-    background: transparent;
+.ct-header a {
+    font-family: "Chewy", system-ui !important;
+    font-size: x-large !important;
 }
