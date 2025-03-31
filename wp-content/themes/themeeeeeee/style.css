@@ -42,11 +42,11 @@ h1 {
 .meta-categories {
     font-weight: bold;
     display: inline-block;
-    padding: 5px 10px;
-    border: 2px solid #3498db;
+    padding: 2px 10px;
+    border: 2px solid #4f6648;
     border-radius: 50px;
-    background-color: transparent;
-    color: #3498db;
+    background-color: #f0faec;
+    color: #2d3b23;
     font-size: 16px;
     font-weight: bold;
     cursor: pointer;
