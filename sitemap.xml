@@ -32,11 +32,6 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/category/students/
         </loc>
     </url>
