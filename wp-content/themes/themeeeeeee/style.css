@@ -24,10 +24,17 @@ main {
     background-color: #f4ffe0 !important;
 }
 
+.hero-section {
+    display: flex;
+}
+
 .entry-header {
-    border: 1px solid #d3e0d2;
+    display: inline-block;
+    background-color: white;
     border-radius: 8px;
-    padding: 10px;
+    padding: 8px 50px;
+    margin: 0 auto;
+    text-align: center;
 }
 
   .entry-card {
@@ -44,7 +51,7 @@ main {
 }
 
 body {
-    background: #fafff9
+    background: #fafff9;
 }
 
 .main-title a {
