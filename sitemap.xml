@@ -42,6 +42,36 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/future-scholar-donation-package/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/mentorship-and-career-coaching/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/student-success-subscription/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/textbook-and-technology-grants/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/professional-exam-sponsorship/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/students/
         </loc>
     </url>
